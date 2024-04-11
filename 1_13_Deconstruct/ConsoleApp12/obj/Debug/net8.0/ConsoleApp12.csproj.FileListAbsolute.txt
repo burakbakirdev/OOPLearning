@@ -1,0 +1,14 @@
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.exe
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.deps.json
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.runtimeconfig.json
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.dll
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.pdb
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.AssemblyInfo.cs
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.dll
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\obj\Debug\net8.0\refint\ConsoleApp12.dll
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.pdb
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.genruntimeconfig.cache
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_13_Deconstruct\ConsoleApp12\obj\Debug\net8.0\ref\ConsoleApp12.dll

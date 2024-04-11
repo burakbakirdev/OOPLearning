@@ -1,0 +1,14 @@
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.exe
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.deps.json
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.runtimeconfig.json
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.dll
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.pdb
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.AssemblyInfo.cs
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.dll
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\obj\Debug\net8.0\refint\ConsoleApp13.dll
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.pdb
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.genruntimeconfig.cache
+C:\Projects\Learning\CSharpDotNet\GencayYt\OOP\OOPLearning1\1_14_StaticConstructor\ConsoleApp13\obj\Debug\net8.0\ref\ConsoleApp13.dll
